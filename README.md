@@ -4,4 +4,4 @@
 
 | No. |   Preview    |                                            Description                                            |    
 | :-: | :----------: | :-----------------------------------------------------------------------------------------------: | 
-| 01  | Gallery Form | ![alt text](https://github.com/MoonJanah/LandingPage-Gallery-Template/blob/main/LandingPage-Gallery-Template-1.png) | 
+| 01  | Gallery Form | ![alt text](https://github.com/MoonJanah/LandingPage-Gallery-Template/blob/main/LandingPage-Template-1.jpeg) | 
